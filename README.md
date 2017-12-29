@@ -4,7 +4,6 @@
  
 # Intro
 ![Tic Tac Toe Intro](./images/ttt01.JPG)
-./images/ttt01.JPG
  
 # Menu
 ![Tic Tac Toe Menu](./images/ttt02.JPG)
