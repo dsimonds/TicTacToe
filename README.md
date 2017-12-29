@@ -1,24 +1,27 @@
 # TicTacToe
 Tic Tac Toe game with 2 players, or 1 player against computer. Written in C++.
 
-# Intro
-![Tic Tac Toe Intro](./images/ttt01.JPG)
-./images/ttt01.JPG
 
-# Menu
-![Tic Tac Toe Menu](./images/ttt02.JPG)
+# INDEX
+![Index Page](./screenshots/01.JPG)
 
-# Initialize
-![Tic Tac Toe Initialize](./images/ttt03.JPG)
+# PUBLICATIONS
+![Publications Page](./screenshots/02.JPG)
 
-# Game
-![Tic Tac Toe Game](./images/ttt04.JPG)
+# People
+![List of Students](./screenshots/03.JPG)
 
-# Winner
-![Tic Tac Toe Winner](./images/ttt05.JPG)
+# People - Description
+![List of Students](./screenshots/03-2.JPG)
 
-# Score
-![Tic Tac Toe Score](./images/ttt06.JPG)
+# Courses
+![List of Courses](./screenshots/04.JPG)
 
+# Media
+![Image Gallery](./screenshots/04.JPG)
+
+# Related Links
+![Links to Related Content](./screenshots/04.JPG)
 
 -Derek Simonds
+
